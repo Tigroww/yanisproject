@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/yanisprojet/static/js/main.84a556a3.js",
-    "index.html": "/yanisprojet/index.html",
-    "main.84a556a3.js.map": "/yanisprojet/static/js/main.84a556a3.js.map"
+    "main.js": "/yanisproject/static/js/main.84a556a3.js",
+    "index.html": "/yanisproject/index.html",
+    "main.84a556a3.js.map": "/yanisproject/static/js/main.84a556a3.js.map"
   },
   "entrypoints": [
     "static/js/main.84a556a3.js"
